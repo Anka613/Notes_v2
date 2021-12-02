@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notes_names">
+        <item>Первая заметка</item>
+        <item>Вторая заметка</item>
+        <item>3 заметка</item>
+        <item>4 заметка</item>
+        <item>5 заметка</item>
+        <item>6 и последняя заметка заметка</item>
+    </string-array>
+
+    <string-array name="notes_descriptions">
+        <item>Описание первой заметки</item>
+        <item>Описание 2й заметки</item>
+        <item>Очень длинно описание 3й заметки</item>
+        <item>Описание 4й заметки</item>
+        <item>Описание 5й заметки</item>
+        <item>Описание 6й заметки</item>
+    </string-array>
+
+    <string-array name="notes_created_dates">
+        <item>01/01/1970</item>
+        <item>01/11/2021</item>
+        <item>01/03/2021</item>
+        <item>11/05/2021</item>
+        <item>17/06/2020</item>
+        <item>10/09/2019</item>
+    </string-array>
+
+</resources>
